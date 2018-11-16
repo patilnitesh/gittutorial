@@ -25,4 +25,6 @@ git log
 cat <filename.extension>
 -To generate deploy key :
 ssh-keygen
+
+tutorial video : https://www.youtube.com/watch?v=xuB1Id2Wxak
 ```
